@@ -8,11 +8,22 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "bson": "^6.10.2",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "kerberos": "^2.2.1",
     "mongodb": "^6.13.0",
     "mongoose": "^8.10.1",
     "mongos": "^0.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishisoorya/MongoDB-Module-end-assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rishisoorya/MongoDB-Module-end-assignment/issues"
+  },
+  "homepage": "https://github.com/rishisoorya/MongoDB-Module-end-assignment#readme",
+  "description": ""
 }
